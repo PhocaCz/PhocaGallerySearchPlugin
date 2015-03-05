@@ -1,0 +1,1 @@
+Phoca Gallery Search Plugin is Joomla! CMS extension. Plugin which allows displaying search results of Phoca Gallery images in search component of Joomla!
