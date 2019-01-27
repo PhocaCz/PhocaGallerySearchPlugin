@@ -1,0 +1,16 @@
+{
+	"author": "Jan Pavelka (www.phoca.cz)",
+	"authorUrl": "https://www.phoca.cz",
+	"copyright": "Jan Pavelka",
+	"license": "GNU/GPL",
+	"projectName": "PhocaGallerySearchPlugin",
+	"extensionName": "Phoca Gallery Search Plugin",
+	"projectInitials" : "PG",				  
+	"description": "Phoca Gallery Search Plugin is Joomla! plugin which enables searching for text in categories (galleries) and pictures of Phoca Gallery.",
+	"projectUrl": "https://www.phoca.cz/phocagallery-search-plugin",
+	"projectDocumentationUrl": "https://www.phoca.cz/documentation/category/15-phoca-gallery-search-plugin",
+	"projectDemo" : {
+		"Joomla! 1.5 Demo": "https://www.phoca.cz/demo/"
+	},
+	"projectColor": "#95313e"
+}
