@@ -9,6 +9,8 @@
 	"description": "Phoca Gallery Search Plugin is Joomla! plugin which enables searching for text in categories (galleries) and pictures of Phoca Gallery.",
 	"projectUrl": "https://www.phoca.cz/phocagallery-search-plugin",
 	"projectDocumentationUrl": "https://www.phoca.cz/documentation/category/15-phoca-gallery-search-plugin",
+	"projectMainComponent": "Phoca Gallery",
+	"projectMainComponentInfoUrl": "https://www.phoca.cz/project/phocagallery-joomla-gallery",
 	"projectDemo" : {
 		"Joomla! 1.5 Demo": "https://www.phoca.cz/demo/"
 	},

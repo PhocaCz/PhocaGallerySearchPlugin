@@ -32,9 +32,9 @@ class plgSearchPhocaGallery extends JPlugin
 	function onContentSearch( $text, $phrase = '', $ordering = '', $areas = null ) {
 
 
-        if ($context == 'com_finder.indexer') {
+       /* if ($context == 'com_finder.indexer') {
             return true;
-        }
+        }*/
 
         // Include Phoca Gallery
         if (!JComponentHelper::isEnabled('com_phocagallery', true)) {

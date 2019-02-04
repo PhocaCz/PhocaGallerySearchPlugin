@@ -16,6 +16,8 @@ Phoca Gallery Search Plugin is Joomla! plugin which enables searching for text i
 
 [Phoca Gallery Search Plugin](https://www.phoca.cz/phocagallery-search-plugin)
 
+[Phoca Gallery Info Page](https://www.phoca.cz/project/phocagallery-joomla-gallery)
+
 
 
 ## Documentation
