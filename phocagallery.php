@@ -271,7 +271,7 @@ class plgSearchPhocaGallery extends JPlugin
 								$listImages[$key]->image=$value->extm;
 							} else if (isset($value->filename) && $value->filename != '') {
 								$filename 				= str_replace('//', '/', $value->filename);
-								$filename				= str_replace(DS, '/', $filename);
+								$filename				= str_replace('\\', '/', $filename);
 								$folderArray			= explode('/', $filename);
 								$countFolderArray		= count($folderArray);
 								$lastArrayValue 		= $countFolderArray - 1;
@@ -284,7 +284,7 @@ class plgSearchPhocaGallery extends JPlugin
 								$listImages[$key]->image=$value->exts;
 							} else if (isset($value->filename) && $value->filename != '') {
 								$filename 				= str_replace('//', '/', $value->filename);
-								$filename				= str_replace(DS, '/', $filename);
+								$filename				= str_replace('\\', '/', $filename);
 								$folderArray			= explode('/', $filename);
 								$countFolderArray		= count($folderArray);
 								$lastArrayValue 		= $countFolderArray - 1;
