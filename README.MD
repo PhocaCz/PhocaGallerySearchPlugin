@@ -2,7 +2,7 @@
 
 
 
-![Phoca Gallery Search Plugin](https://github.com/PhocaCz/PhocaGallerySearchPlugin/blob/master/phocagallery.png)
+![Phoca Gallery Search Plugin](https://github.com/PhocaCz/PhocaGallerySearchPlugin/blob/master/phocagallery.png?raw=true)
 
 # Phoca Gallery Search Plugin
 
@@ -23,6 +23,8 @@ Phoca Gallery Search Plugin is Joomla! plugin which enables searching for text i
 ## Documentation
 
 [Documentation](https://www.phoca.cz/documentation/category/15-phoca-gallery-search-plugin)
+
+
 
 
 
@@ -52,7 +54,7 @@ Phoca Gallery Search Plugin is Joomla! plugin which enables searching for text i
 
 ## Version
 
-4.3.11
+4.4.0
 
 
 
